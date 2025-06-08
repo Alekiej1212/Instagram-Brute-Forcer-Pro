@@ -17,7 +17,7 @@ Now with **GPU acceleration** and **stealth mode**.
 ✅ Undetectable by default  
 ✅ Live progress and detailed logs  
 
-contact telegram : https://t.me/daniruee
+contact telegram : https://t.me/danirueaq
 
 ##  Installation:
 
